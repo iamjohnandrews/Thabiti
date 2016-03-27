@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vysual\n"
+"POT-Creation-Date: 2012-10-20 00:26-0800\n"
+"PO-Revision-Date: 2012-10-20 00:26-0800\n"
+"Last-Translator: Chris <chris@themolitor.com>\n"
+"Language-Team: The Molitor\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:3
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:3
+msgid "Error 404"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Latest Items"
+msgstr ""
+
+#: ../archive.php:30
+msgid "items"
+msgstr ""
+
+#: ../archive.php:30
+msgid "item"
+msgstr ""
+
+#: ../archive.php:31
+msgid " found for "
+msgstr ""
+
+#: ../archive.php:129
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../archive.php:130
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../archive.php:131
+msgid "Share on Google+"
+msgstr ""
+
+#: ../archive.php:170
+msgid "Nothing found"
+msgstr ""
+
+#: ../archive.php:170
+msgid " for "
+msgstr ""
+
+#: ../comments.php:7
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password above to view or leave a comment."
+msgstr ""
+
+#: ../comments.php:13
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:13
+msgid "% Comments"
+msgstr ""
+
+#: ../footer.php:41 ../searchform.php:2
+msgid "Search Site..."
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:6
+msgid "Options"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:19
+msgid "Self Hosted Video URL"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:20
+msgid "Enter full URL to MP4 video. Example: http://www.w3schools.com/html/mov_bbb.mp4"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:24
+msgid "YouTube Video ID"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:25
+msgid "Enter ID to YouTube video. Example: JU9PdgB3rsk"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:29
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:30
+msgid "Enter ID to Vimeo video. Example: 41444323"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:109
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: ../include/post-options/custom-meta-box-template.php:110
+msgid "Use this image"
+msgstr ""
+
+#: ../page-gallery.php:29
+msgid "Password Required"
+msgstr ""
+
+#: ../page-gallery.php:31
+msgid "Submit"
+msgstr ""
+
+#: ../rating.php:6
+msgid "G"
+msgstr ""
+
+#: ../rating.php:7
+msgid "General Audiences"
+msgstr ""
+
+#: ../rating.php:8
+msgid "All Ages Admitted"
+msgstr ""
+
+#: ../rating.php:12
+msgid "PG"
+msgstr ""
+
+#: ../rating.php:13
+msgid "Parental Guidance Suggested"
+msgstr ""
+
+#: ../rating.php:14
+msgid "Some material may not be suitable for children"
+msgstr ""
+
+#: ../rating.php:18
+msgid "PG-13"
+msgstr ""
+
+#: ../rating.php:19
+msgid "Parents Strongly Cautioned"
+msgstr ""
+
+#: ../rating.php:20
+msgid "Some material may be inappropriate for children under 13"
+msgstr ""
+
+#: ../rating.php:24
+msgid "R"
+msgstr ""
+
+#: ../rating.php:25
+msgid "Restricted"
+msgstr ""
+
+#: ../rating.php:26
+msgid "Under 17 requires accompanying parent or adult guardian"
+msgstr ""
+
+#: ../rating.php:30
+msgid "NC-17"
+msgstr ""
+
+#: ../rating.php:31
+msgid "No One 17 and Under Admitted"
+msgstr ""
+
+#: ../rating.php:31
+msgid "This Film is Not Yet Rated"
+msgstr ""
+
+#: ../single.php:32
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: ../single.php:47
+msgid "DATE"
+msgstr ""
+
+#: ../single.php:47
+msgid "CATEGORY "
+msgstr ""
+
+#: ../single.php:47
+msgid "TAGS"
+msgstr ""
